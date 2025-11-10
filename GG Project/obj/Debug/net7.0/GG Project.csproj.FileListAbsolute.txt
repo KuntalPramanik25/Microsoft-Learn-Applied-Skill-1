@@ -1,0 +1,33 @@
+D:\Projects\Demo Project From Microsoft Learn Course\GG Project\GG Project\bin\Debug\net7.0\appsettings.Development.json
+D:\Projects\Demo Project From Microsoft Learn Course\GG Project\GG Project\bin\Debug\net7.0\appsettings.json
+D:\Projects\Demo Project From Microsoft Learn Course\GG Project\GG Project\bin\Debug\net7.0\GG Project.exe
+D:\Projects\Demo Project From Microsoft Learn Course\GG Project\GG Project\bin\Debug\net7.0\GG Project.deps.json
+D:\Projects\Demo Project From Microsoft Learn Course\GG Project\GG Project\bin\Debug\net7.0\GG Project.runtimeconfig.json
+D:\Projects\Demo Project From Microsoft Learn Course\GG Project\GG Project\bin\Debug\net7.0\GG Project.dll
+D:\Projects\Demo Project From Microsoft Learn Course\GG Project\GG Project\bin\Debug\net7.0\GG Project.pdb
+D:\Projects\Demo Project From Microsoft Learn Course\GG Project\GG Project\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Projects\Demo Project From Microsoft Learn Course\GG Project\GG Project\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\Projects\Demo Project From Microsoft Learn Course\GG Project\GG Project\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Projects\Demo Project From Microsoft Learn Course\GG Project\GG Project\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Projects\Demo Project From Microsoft Learn Course\GG Project\GG Project\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Projects\Demo Project From Microsoft Learn Course\GG Project\GG Project\obj\Debug\net7.0\GG Project.csproj.AssemblyReference.cache
+D:\Projects\Demo Project From Microsoft Learn Course\GG Project\GG Project\obj\Debug\net7.0\GG Project.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Demo Project From Microsoft Learn Course\GG Project\GG Project\obj\Debug\net7.0\GG Project.AssemblyInfoInputs.cache
+D:\Projects\Demo Project From Microsoft Learn Course\GG Project\GG Project\obj\Debug\net7.0\GG Project.AssemblyInfo.cs
+D:\Projects\Demo Project From Microsoft Learn Course\GG Project\GG Project\obj\Debug\net7.0\GG Project.csproj.CoreCompileInputs.cache
+D:\Projects\Demo Project From Microsoft Learn Course\GG Project\GG Project\obj\Debug\net7.0\GG Project.MvcApplicationPartsAssemblyInfo.cs
+D:\Projects\Demo Project From Microsoft Learn Course\GG Project\GG Project\obj\Debug\net7.0\GG Project.MvcApplicationPartsAssemblyInfo.cache
+D:\Projects\Demo Project From Microsoft Learn Course\GG Project\GG Project\obj\Debug\net7.0\staticwebassets\msbuild.GG Project.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Projects\Demo Project From Microsoft Learn Course\GG Project\GG Project\obj\Debug\net7.0\staticwebassets\msbuild.build.GG Project.props
+D:\Projects\Demo Project From Microsoft Learn Course\GG Project\GG Project\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.GG Project.props
+D:\Projects\Demo Project From Microsoft Learn Course\GG Project\GG Project\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.GG Project.props
+D:\Projects\Demo Project From Microsoft Learn Course\GG Project\GG Project\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Projects\Demo Project From Microsoft Learn Course\GG Project\GG Project\obj\Debug\net7.0\staticwebassets.build.json
+D:\Projects\Demo Project From Microsoft Learn Course\GG Project\GG Project\obj\Debug\net7.0\staticwebassets.development.json
+D:\Projects\Demo Project From Microsoft Learn Course\GG Project\GG Project\obj\Debug\net7.0\scopedcss\bundle\GG Project.styles.css
+D:\Projects\Demo Project From Microsoft Learn Course\GG Project\GG Project\obj\Debug\net7.0\GG Project.csproj.CopyComplete
+D:\Projects\Demo Project From Microsoft Learn Course\GG Project\GG Project\obj\Debug\net7.0\GG Project.dll
+D:\Projects\Demo Project From Microsoft Learn Course\GG Project\GG Project\obj\Debug\net7.0\refint\GG Project.dll
+D:\Projects\Demo Project From Microsoft Learn Course\GG Project\GG Project\obj\Debug\net7.0\GG Project.pdb
+D:\Projects\Demo Project From Microsoft Learn Course\GG Project\GG Project\obj\Debug\net7.0\GG Project.genruntimeconfig.cache
+D:\Projects\Demo Project From Microsoft Learn Course\GG Project\GG Project\obj\Debug\net7.0\ref\GG Project.dll
